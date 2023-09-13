@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    color:red;
+    text-align:center;
+
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+    color:maroon; 
+    text-align:center;
+   
+    
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    color:maroon; 
+   
+}
+
+body {
+    background-image: url('/images/pups.jpg');
+    background-size: cover;
+}
+

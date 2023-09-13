@@ -1,0 +1,12 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    color:maroon; 
+   
+}
+
+body {
+    background-image: url('/images/bckg.jpg');
+    background-size: cover;
+}
+
